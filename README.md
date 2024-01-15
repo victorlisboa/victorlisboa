@@ -4,6 +4,8 @@
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victorhugoflisboa/)
 [![Static Badge](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:victorhugof.lisboa@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/victorlisboa)
+
 
 Meu nome é Victor Hugo, tenho 22 anos e atualmente sou estudante de graduação em Ciência da Computação na Universidade de Brasília.
 
