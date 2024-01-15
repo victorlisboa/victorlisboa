@@ -1,5 +1,10 @@
 ### Olá!
 
+
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victorhugoflisboa/)
+[![Static Badge](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:victorhugof.lisboa@gmail.com)
+
 Meu nome é Victor Hugo, tenho 22 anos e atualmente sou estudante de graduação em Ciência da Computação na Universidade de Brasília.
 
 Me interesso bastante por machine learning (tendo tido mais contato com NLP) e programação competitiva (tentando a cada vez ser menos ruim).
